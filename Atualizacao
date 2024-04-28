@@ -1,10 +1,9 @@
 {
-  "records": [
+  "fnmods_update": [
     {
-      
-      "version": "DELTA WA",
-      "code": 10,
-      "url": "https://bit.ly/DELTAv60B5",
+ "version": 10,
+ "title":  "Update Disponible",
+ "description":  "MywhasApp Oficial V10
 
 Base: 2.24.2.76
 
@@ -13,7 +12,7 @@ Base: 2.24.2.76
 Novo sistema de atualização 
 
  Atualização AntiBan disponível ",
-      "changelog": " - Extended Base - Bulk Message Sender with Attachment - Another Few Fixed"
-    }
+"download":  "http://api.whatsapp.com/send?phone=+557588432813"
+}
   ]
 }
